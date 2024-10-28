@@ -436,10 +436,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-28" value="Modelo entidad - relación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="530" y="-80" width="270" height="30" as="geometry" />
+          <mxGeometry x="600" y="-60" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-29" value="BD - Centurión" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="530" y="-50" width="270" height="30" as="geometry" />
+          <mxGeometry x="600" y="-30" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
