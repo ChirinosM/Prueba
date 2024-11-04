@@ -164,7 +164,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZMtlEt-RDJXttwTS_dd9-52" value="USER_REG VARCHAR(60)" style="shape=partialRectangle;connectable=0;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#56517e;rounded=0;" parent="ZMtlEt-RDJXttwTS_dd9-50" vertex="1">
+        <mxCell id="ZMtlEt-RDJXttwTS_dd9-52" value="USER_REG VARCHAR(60) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#56517e;rounded=0;" parent="ZMtlEt-RDJXttwTS_dd9-50" vertex="1">
           <mxGeometry x="30" width="308" height="30" as="geometry">
             <mxRectangle width="308" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -177,7 +177,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZMtlEt-RDJXttwTS_dd9-55" value="DATE_REG DATETIME" style="shape=partialRectangle;connectable=0;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#56517e;rounded=0;" parent="ZMtlEt-RDJXttwTS_dd9-53" vertex="1">
+        <mxCell id="ZMtlEt-RDJXttwTS_dd9-55" value="DATE_REG DATETIME NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#56517e;rounded=0;" parent="ZMtlEt-RDJXttwTS_dd9-53" vertex="1">
           <mxGeometry x="30" width="308" height="30" as="geometry">
             <mxRectangle width="308" height="30" as="alternateBounds" />
           </mxGeometry>
