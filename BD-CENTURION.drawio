@@ -455,7 +455,7 @@
             <mxPoint x="1189" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-28" value="Modelo entidad - relación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-28" value="Modelo Entidad - Relación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="-90" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-29" value="BD - Centurión" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
