@@ -456,13 +456,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-28" value="Modelo entidad - relación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="650" y="-36" width="270" height="30" as="geometry" />
+          <mxGeometry x="380" y="-90" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-29" value="BD - Centurión" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="650" y="-6" width="270" height="30" as="geometry" />
+          <mxGeometry x="380" y="-60" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-30" value="DATA_DICTIONARY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="600" width="310" height="210" as="geometry">
+          <mxGeometry x="365" y="640" width="310" height="210" as="geometry">
             <mxRectangle x="120" y="120" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
