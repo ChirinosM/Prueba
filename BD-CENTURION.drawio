@@ -99,7 +99,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZMtlEt-RDJXttwTS_dd9-33" value="NAME_CONTROL VARCHAR(15) NOT NULL UNIQUE" style="shape=partialRectangle;connectable=0;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#56517e;rounded=0;" parent="ZMtlEt-RDJXttwTS_dd9-31" vertex="1">
+        <mxCell id="ZMtlEt-RDJXttwTS_dd9-33" value="NAME_CONTROL CHAR(13) NOT NULL UNIQUE" style="shape=partialRectangle;connectable=0;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#56517e;rounded=0;" parent="ZMtlEt-RDJXttwTS_dd9-31" vertex="1">
           <mxGeometry x="30" width="308" height="30" as="geometry">
             <mxRectangle width="308" height="30" as="alternateBounds" />
           </mxGeometry>
