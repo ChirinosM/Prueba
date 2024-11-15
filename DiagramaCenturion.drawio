@@ -67,7 +67,7 @@
             <mxPoint x="549" y="284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FP3VzrqA_hdOQgKFFTKv-18" value="1.2 POST /auth { email }" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-18" value="1.2 POST /auth { Email }" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="316" y="257" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
