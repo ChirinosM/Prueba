@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FP3VzrqA_hdOQgKFFTKv-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FP3VzrqA_hdOQgKFFTKv-2" target="FP3VzrqA_hdOQgKFFTKv-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-2" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="83" y="102" width="30" height="60" as="geometry" />
         </mxCell>
@@ -62,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-15" value="1.1 Autenticación y proyecto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="107" y="214" width="90" height="30" as="geometry" />
+          <mxGeometry x="106.5" y="215" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
