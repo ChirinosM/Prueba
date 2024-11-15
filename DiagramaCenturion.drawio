@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="kyZmNTn_4bfn__WPmsEL">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,31 +21,31 @@
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="FP3VzrqA_hdOQgKFFTKv-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="680" as="sourcePoint" />
+            <mxPoint x="210" y="800" as="sourcePoint" />
             <mxPoint x="420" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369" y="680" as="sourcePoint" />
+            <mxPoint x="370" y="800" as="sourcePoint" />
             <mxPoint x="371" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="680" as="sourcePoint" />
+            <mxPoint x="530" y="800" as="sourcePoint" />
             <mxPoint x="531" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="680" as="sourcePoint" />
+            <mxPoint x="691" y="800" as="sourcePoint" />
             <mxPoint x="691" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="680" as="sourcePoint" />
+            <mxPoint x="100" y="800" as="sourcePoint" />
             <mxPoint x="102" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-15" value="1.1 Autenticación y proyecto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="123" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,16 +134,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-35" value="2.3 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="540" width="148" height="27" as="geometry" />
+          <mxGeometry x="535" y="542" width="148" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="FP3VzrqA_hdOQgKFFTKv-36" value="2.4 Retorna json { Usuario, Nombre, Rol, Ciudad, Proyecto, Controladores }" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="378" y="559" width="148" height="27" as="geometry" />
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-36" value="2.4 Retorna JSON&amp;nbsp;&lt;div&gt;{ Usuario, Nombre, Rol, Ciudad, Proyecto, Controladores }&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="553" width="148" height="27" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="600" as="sourcePoint" />
             <mxPoint x="370" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-38" value="3. Visualización de monitoreo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-39" value="3.1 GET /info/monitoreo/{Matricula}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="658" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="695" as="sourcePoint" />
+            <mxPoint x="530" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-41" value="3.2 Consulta de datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="698" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="531" y="726" as="sourcePoint" />
+            <mxPoint x="691" y="726" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="764" as="sourcePoint" />
+            <mxPoint x="530" y="764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-44" value="3.3 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="739" width="148" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="800" as="sourcePoint" />
+            <mxPoint x="370" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-46" value="3.4 Retorna JSON&amp;nbsp;&lt;div&gt;{ Estado, Programacion }&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="766" width="148" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
