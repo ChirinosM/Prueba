@@ -94,8 +94,8 @@
             <mxPoint x="210" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FP3VzrqA_hdOQgKFFTKv-24" value="1.5 Retorna código de estado HTTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="315" width="290" height="30" as="geometry" />
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-24" value="1.5 Retorna código de estado HTTP (204 - 404)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="226" y="313" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -136,7 +136,7 @@
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-35" value="2.3 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="542" width="148" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="FP3VzrqA_hdOQgKFFTKv-36" value="2.4 Retorna JSON&amp;nbsp;&lt;div&gt;{ Usuario, Nombre, Rol, Ciudad, Proyecto, Controladores }&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-36" value="2.4 Retorna JSON&amp;nbsp;&lt;div&gt;{ Usuario, Nombre, Rol, Ciudad, Proyecto, Controladores } (200 - 404)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="378" y="553" width="148" height="27" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -181,8 +181,8 @@
             <mxPoint x="370" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FP3VzrqA_hdOQgKFFTKv-46" value="3.4 Retorna JSON&amp;nbsp;&lt;div&gt;{ Estado, Programacion }&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="378" y="766" width="148" height="27" as="geometry" />
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-46" value="3.4 Retorna JSON&amp;nbsp;&lt;div&gt;{ Estado, Programacion } (200 - 404)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="760" width="148" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
