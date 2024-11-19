@@ -252,66 +252,66 @@
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="1040" as="sourcePoint" />
-            <mxPoint x="376" y="1040" as="targetPoint" />
+            <mxPoint x="98" y="1035" as="sourcePoint" />
+            <mxPoint x="376" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-3" value="4.1 Indicador de fecha y/o hora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1013" width="170" height="30" as="geometry" />
+          <mxGeometry x="135" y="1008" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379" y="1080" as="sourcePoint" />
-            <mxPoint x="549" y="1080" as="targetPoint" />
+            <mxPoint x="379" y="1070" as="sourcePoint" />
+            <mxPoint x="549" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-5" value="4.2 POST&amp;nbsp;&lt;div&gt;/info/monitoreo/&lt;div&gt;{Matricula, Fecha, Hora}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385.5" y="1037" width="150" height="30" as="geometry" />
+          <mxGeometry x="385.5" y="1026" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="1110" as="sourcePoint" />
-            <mxPoint x="710" y="1110" as="targetPoint" />
+            <mxPoint x="550" y="1099" as="sourcePoint" />
+            <mxPoint x="710" y="1099" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-7" value="4.3 Consulta de datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="552" y="1082" width="148" height="30" as="geometry" />
+          <mxGeometry x="552" y="1072" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="708" y="1150" as="sourcePoint" />
-            <mxPoint x="548" y="1150" as="targetPoint" />
+            <mxPoint x="708" y="1134" as="sourcePoint" />
+            <mxPoint x="548" y="1134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-10" value="4.4 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="556" y="1125" width="148" height="27" as="geometry" />
+          <mxGeometry x="556" y="1108" width="148" height="27" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="549" y="1190" as="sourcePoint" />
-            <mxPoint x="379" y="1190" as="targetPoint" />
+            <mxPoint x="549" y="1170" as="sourcePoint" />
+            <mxPoint x="379" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-12" value="4.5 Retorna JSON&amp;nbsp;&lt;div&gt;{ Estado, Programacion } (200 - 404)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="1147" width="148" height="27" as="geometry" />
+          <mxGeometry x="387.5" y="1128" width="148" height="27" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379" y="1228" as="sourcePoint" />
-            <mxPoint x="208" y="1228" as="targetPoint" />
+            <mxPoint x="379" y="1210" as="sourcePoint" />
+            <mxPoint x="208" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-14" value="4.6 Interfaz centurión monitoreo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="218" y="1193" width="145" height="30" as="geometry" />
+          <mxGeometry x="218" y="1175" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208" y="1260" as="sourcePoint" />
-            <mxPoint x="98" y="1260" as="targetPoint" />
+            <mxPoint x="208" y="1246" as="sourcePoint" />
+            <mxPoint x="98" y="1246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-16" value="4.7 Visualización&amp;nbsp;&lt;div&gt;centurión&amp;nbsp;&lt;/div&gt;&lt;div&gt;monitoreo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="79" y="1220" width="145" height="30" as="geometry" />
+          <mxGeometry x="79" y="1204" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
