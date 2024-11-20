@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="kyZmNTn_4bfn__WPmsEL">
-    <mxGraphModel dx="1502" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,48 +54,48 @@
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="249" as="sourcePoint" />
-            <mxPoint x="208" y="249" as="targetPoint" />
+            <mxPoint x="98" y="265" as="sourcePoint" />
+            <mxPoint x="208" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-15" value="1.1 Autenticación y selección de proyecto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="106.5" y="204" width="90" height="30" as="geometry" />
+          <mxGeometry x="106.5" y="214" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="209" y="270" as="sourcePoint" />
-            <mxPoint x="549" y="270" as="targetPoint" />
+            <mxPoint x="209" y="292" as="sourcePoint" />
+            <mxPoint x="549" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-18" value="1.2 POST /auth { Email, Proyecto }" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="283" y="242" width="195" height="30" as="geometry" />
+          <mxGeometry x="283" y="262" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="300" as="sourcePoint" />
-            <mxPoint x="710" y="300" as="targetPoint" />
+            <mxPoint x="550" y="316" as="sourcePoint" />
+            <mxPoint x="710" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-20" value="1.3 Consulta y valida usuario y proyecto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="557" y="267" width="148" height="30" as="geometry" />
+          <mxGeometry x="557" y="283" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="709" y="333" as="sourcePoint" />
-            <mxPoint x="549" y="333" as="targetPoint" />
+            <mxPoint x="709" y="350" as="sourcePoint" />
+            <mxPoint x="549" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-22" value="1.4 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="557" y="307" width="148" height="30" as="geometry" />
+          <mxGeometry x="557" y="324" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="549" y="370" as="sourcePoint" />
-            <mxPoint x="209" y="370" as="targetPoint" />
+            <mxPoint x="549" y="379" as="sourcePoint" />
+            <mxPoint x="209" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-24" value="1.5 Retorna código de estado HTTP (200 - 404)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="241" y="343" width="290" height="30" as="geometry" />
+          <mxGeometry x="241" y="352" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
