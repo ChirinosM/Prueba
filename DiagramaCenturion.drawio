@@ -148,7 +148,7 @@
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-38" value="3. Visualización de monitoreo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="77" y="710" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FP3VzrqA_hdOQgKFFTKv-39" value="3.2 POST&amp;nbsp;&lt;div&gt;/info/monitoreo/&lt;div&gt;{Matricula, Fecha, Hora}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FP3VzrqA_hdOQgKFFTKv-39" value="3.2 POST&amp;nbsp;&lt;div&gt;/info/monitoreo&lt;div&gt;{Matricula, Fecha, Hora}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="385" y="748" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-40" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -265,7 +265,7 @@
             <mxPoint x="549" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-5" value="4.2 POST&amp;nbsp;&lt;div&gt;/info/monitoreo/&lt;div&gt;{Matricula, Fecha, Hora}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-5" value="4.2 POST&amp;nbsp;&lt;div&gt;/info/monitoreo&lt;div&gt;{Matricula, Fecha, Hora}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385.5" y="1026" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -331,7 +331,7 @@
             <mxPoint x="550.5" y="1356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-22" value="5.2 POST&amp;nbsp;&lt;div&gt;/new/add_controlador/&lt;div&gt;{User_reg, Fecha, Hora, Proyecto}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-22" value="5.2 POST&amp;nbsp;&lt;div&gt;/new/add_controlador&lt;div&gt;{User_reg, Fecha, Hora, Proyecto}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="1306" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
