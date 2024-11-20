@@ -313,7 +313,7 @@
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-16" value="4.7 Visualización&amp;nbsp;&lt;div&gt;centurión&amp;nbsp;&lt;/div&gt;&lt;div&gt;monitoreo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="79" y="1204" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-17" value="5. Adición de controlador" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-17" value="5. Adición de nuevo controlador" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="77" y="1268" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
