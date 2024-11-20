@@ -33,7 +33,7 @@
         <mxCell id="2lY7sNvGkSiRk7kavxbV-6" value="Adición de nuevo controlador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-71.99999999999999" y="1257" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2lY7sNvGkSiRk7kavxbV-7" value="Consulta de monitoreo por fecha y hora" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2lY7sNvGkSiRk7kavxbV-7" value="Consulta de monitoreo por fecha y/u hora" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-414" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2lY7sNvGkSiRk7kavxbV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2lY7sNvGkSiRk7kavxbV-9" target="2lY7sNvGkSiRk7kavxbV-13">
