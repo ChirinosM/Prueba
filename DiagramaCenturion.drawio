@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="kyZmNTn_4bfn__WPmsEL">
-    <mxGraphModel dx="1767" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,136 +247,136 @@
         <mxCell id="FP3VzrqA_hdOQgKFFTKv-67" value="Flujo de API&#39;s Centurión" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="327" y="35" width="188.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-1" value="4. Consulta de monitoreo (Fecha y Hora)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-1" value="4. Consulta de monitoreo (Fecha y Hora)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="77" y="980" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="98" y="1035" as="sourcePoint" />
             <mxPoint x="376" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-3" value="4.1 Indicador de fecha y/o hora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-3" value="4.1 Indicador de fecha y/o hora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="1007" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379" y="1070" as="sourcePoint" />
             <mxPoint x="549" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-5" value="4.2 POST&amp;nbsp;&lt;div&gt;/info/monitoreo&lt;div&gt;{Matricula, Fecha, Hora}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-5" value="4.2 POST&amp;nbsp;&lt;div&gt;/info/monitoreo&lt;div&gt;{Matricula, Fecha, Hora}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="385.5" y="1026" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1099" as="sourcePoint" />
             <mxPoint x="710" y="1099" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-7" value="4.3 Consulta de datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-7" value="4.3 Consulta de datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="552" y="1072" width="148" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="708" y="1134" as="sourcePoint" />
             <mxPoint x="548" y="1134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-10" value="4.4 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-10" value="4.4 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="556" y="1108" width="148" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="549" y="1170" as="sourcePoint" />
             <mxPoint x="379" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-12" value="4.5 Retorna JSON&amp;nbsp;&lt;div&gt;{ Estado, Programacion } (200 - 404)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-12" value="4.5 Retorna JSON&amp;nbsp;&lt;div&gt;{ Estado, Programacion } (200 - 404)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="1128" width="148" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379" y="1210" as="sourcePoint" />
             <mxPoint x="208" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-14" value="4.6 Interfaz centurión monitoreo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-14" value="4.6 Interfaz centurión monitoreo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="218" y="1175" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="1246" as="sourcePoint" />
             <mxPoint x="98" y="1246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-16" value="4.7 Visualización&amp;nbsp;&lt;div&gt;centurión&amp;nbsp;&lt;/div&gt;&lt;div&gt;monitoreo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-16" value="4.7 Visualización&amp;nbsp;&lt;div&gt;centurión&amp;nbsp;&lt;/div&gt;&lt;div&gt;monitoreo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="79" y="1204" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-17" value="5. Adición de nuevo controlador" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-17" value="5. Visualización de historial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="77" y="1268" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="99" y="1320" as="sourcePoint" />
             <mxPoint x="377" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-19" value="5.1 Clic en el botón &quot;Añadir controlador&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-19" value="5.1 Clic en el botón &quot;Añadir controlador&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="128" y="1293" width="233" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380.5" y="1356" as="sourcePoint" />
             <mxPoint x="550.5" y="1356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-22" value="5.2 POST&amp;nbsp;&lt;div&gt;/new/add_controlador&lt;div&gt;{User_reg, Fecha, Hora, Proyecto}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-22" value="5.2 POST&amp;nbsp;&lt;div&gt;/new/add_controlador&lt;div&gt;{User_reg, Fecha, Hora, Proyecto}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="1306" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1390" as="sourcePoint" />
             <mxPoint x="710" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-24" value="5.3 Registro de datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-24" value="5.3 Registro de datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="554" y="1362" width="148" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="709" y="1424" as="sourcePoint" />
             <mxPoint x="549" y="1424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-27" value="5.4 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-27" value="5.4 Retorna datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="554" y="1398" width="148" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="549.5" y="1460" as="sourcePoint" />
             <mxPoint x="379.5" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-29" value="5.5 Retorna JSON&amp;nbsp;&lt;div&gt;{ detail, Matricula }&amp;nbsp;&lt;/div&gt;&lt;div&gt;(200 - 404)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-29" value="5.5 Retorna JSON&amp;nbsp;&lt;div&gt;{ detail, Matricula }&amp;nbsp;&lt;/div&gt;&lt;div&gt;(200 - 404)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="392" y="1419" width="148" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379" y="1498" as="sourcePoint" />
             <mxPoint x="208" y="1498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-32" value="5.6 Interfaz centurión monitoreo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-32" value="5.6 Interfaz centurión monitoreo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="1464" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="206.5" y="1534" as="sourcePoint" />
             <mxPoint x="96.5" y="1534" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-34" value="5.7 Visualización&amp;nbsp;&lt;div&gt;centurión&amp;nbsp;&lt;/div&gt;&lt;div&gt;monitoreo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-34" value="5.7 Visualización&amp;nbsp;&lt;div&gt;centurión&amp;nbsp;&lt;/div&gt;&lt;div&gt;monitoreo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="81" y="1490" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
