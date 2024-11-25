@@ -322,8 +322,8 @@
             <mxPoint x="377" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-l2l5GQCLhaMs7UbWSu-19" value="5.1 Clic en el botón &quot;Añadir controlador&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="128" y="1293" width="233" height="30" as="geometry" />
+        <mxCell id="3-l2l5GQCLhaMs7UbWSu-19" value="5.1 Indicador de controlador" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="96" y="1293" width="233" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-l2l5GQCLhaMs7UbWSu-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
