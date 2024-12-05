@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ERD-CEN">
-    <mxGraphModel dx="2140" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2352" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,12 +402,6 @@
             <mxPoint x="1117" y="221" as="sourcePoint" />
             <mxPoint x="1189" y="262" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-28" value="Modelo Entidad - Relación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="451" y="-45" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-29" value="BD - Centurión" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="451" y="-15" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-30" value="DATA_DICTIONARY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="710" width="310" height="210" as="geometry">
