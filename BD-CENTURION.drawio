@@ -455,6 +455,12 @@
             <mxPoint x="1189" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-28" value="Modelo Entidad - Relación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="451" y="-45" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-29" value="BD - Centurión" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="451" y="-15" width="270" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="MNNxrbF0-Zn2pWXf_e2Z-30" value="DATA_DICTIONARY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="710" width="310" height="210" as="geometry">
             <mxRectangle x="120" y="120" width="90" height="30" as="alternateBounds" />
