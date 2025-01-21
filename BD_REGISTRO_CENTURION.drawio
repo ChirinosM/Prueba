@@ -522,7 +522,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pU5mQmMSflF7PZln5BtF-131" value="USUARIOS_REL_PROYECTOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="300" width="210" height="90" as="geometry" />
+          <mxGeometry x="700" y="240" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pU5mQmMSflF7PZln5BtF-132" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#d0cee2;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;strokeColor=#56517e;rounded=0;fontStyle=1" parent="pU5mQmMSflF7PZln5BtF-131" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -556,7 +556,7 @@
             <mxPoint x="890" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pU5mQmMSflF7PZln5BtF-140" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pU5mQmMSflF7PZln5BtF-45" edge="1">
+        <mxCell id="pU5mQmMSflF7PZln5BtF-140" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pU5mQmMSflF7PZln5BtF-45" edge="1" target="pU5mQmMSflF7PZln5BtF-135">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="651" y="645" as="sourcePoint" />
             <mxPoint x="700" y="375" as="targetPoint" />
