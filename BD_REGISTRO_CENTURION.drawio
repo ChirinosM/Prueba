@@ -1387,7 +1387,7 @@
             <mxRectangle width="25" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PY0RrMmxH_5ZQ-s8M7BY-35" value="PASSWORD_ORI VARCHAR(8)" style="shape=partialRectangle;connectable=0;fillColor=light-dark(#CCE5FF,#EDEDED);top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="PY0RrMmxH_5ZQ-s8M7BY-33">
+        <mxCell id="PY0RrMmxH_5ZQ-s8M7BY-35" value="ORIGINAL_PASS VARCHAR(8)" style="shape=partialRectangle;connectable=0;fillColor=light-dark(#CCE5FF,#EDEDED);top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="PY0RrMmxH_5ZQ-s8M7BY-33">
           <mxGeometry x="25" width="245" height="30" as="geometry">
             <mxRectangle width="245" height="30" as="alternateBounds" />
           </mxGeometry>
