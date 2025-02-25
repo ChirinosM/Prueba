@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Página-1" id="dnZzDkU0JhZ-kHMPlZge">
-    <mxGraphModel dx="3558" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2705" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1912,7 +1912,7 @@
             <mxRectangle width="25" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PY0RrMmxH_5ZQ-s8M7BY-301" value="USER_BROKER CHAR(14) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="PY0RrMmxH_5ZQ-s8M7BY-299" vertex="1">
+        <mxCell id="PY0RrMmxH_5ZQ-s8M7BY-301" value="USER_BROKER VARCHAR(14) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="PY0RrMmxH_5ZQ-s8M7BY-299" vertex="1">
           <mxGeometry x="25" width="305" height="30" as="geometry">
             <mxRectangle width="305" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1951,7 +1951,7 @@
             <mxRectangle width="25" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EI4eYNpr7FVfrBURRf9L-116" value="USER_BROKER_API CHAR(14) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EI4eYNpr7FVfrBURRf9L-114" vertex="1">
+        <mxCell id="EI4eYNpr7FVfrBURRf9L-116" value="USER_BROKER_API VARCHAR(14) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EI4eYNpr7FVfrBURRf9L-114" vertex="1">
           <mxGeometry x="25" width="305" height="30" as="geometry">
             <mxRectangle width="305" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1990,7 +1990,7 @@
             <mxRectangle width="25" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EI4eYNpr7FVfrBURRf9L-122" value="USER_BROKER_COTROL CHAR(14) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EI4eYNpr7FVfrBURRf9L-120" vertex="1">
+        <mxCell id="EI4eYNpr7FVfrBURRf9L-122" value="USER_BROKER_COTROL VARCHAR(14) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EI4eYNpr7FVfrBURRf9L-120" vertex="1">
           <mxGeometry x="25" width="305" height="30" as="geometry">
             <mxRectangle width="305" height="30" as="alternateBounds" />
           </mxGeometry>
