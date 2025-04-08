@@ -968,7 +968,7 @@
             <mxRectangle width="25" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-vLyET9hCCEEbOVYMMOd-13" value="ID_VERSION_GA INT" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="-vLyET9hCCEEbOVYMMOd-11">
+        <mxCell id="-vLyET9hCCEEbOVYMMOd-13" value="ID_VERSION INT" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="-vLyET9hCCEEbOVYMMOd-11">
           <mxGeometry x="25" width="245" height="30" as="geometry">
             <mxRectangle width="245" height="30" as="alternateBounds" />
           </mxGeometry>
