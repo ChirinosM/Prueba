@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Página-1" id="dnZzDkU0JhZ-kHMPlZge">
-    <mxGraphModel dx="1630" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2483" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1828,7 +1828,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_vVMvHL2ceAPWktRrQN-2" value="VERSIONES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#003366;strokeColor=#432D57;fontColor=#ffffff;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="409" width="270" height="270" as="geometry" />
+          <mxGeometry x="1330" y="387" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Q_vVMvHL2ceAPWktRrQN-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#cce5ff;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#36393d;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="Q_vVMvHL2ceAPWktRrQN-2" vertex="1">
           <mxGeometry y="30" width="270" height="30" as="geometry" />
@@ -1935,7 +1935,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_vVMvHL2ceAPWktRrQN-24" value="CONTROLADORES_REL_VERSIONES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#003366;strokeColor=#432D57;fontColor=#ffffff;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="253" width="270" height="120" as="geometry" />
+          <mxGeometry x="1330" y="228" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Q_vVMvHL2ceAPWktRrQN-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#cce5ff;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#36393d;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="Q_vVMvHL2ceAPWktRrQN-24" vertex="1">
           <mxGeometry y="30" width="270" height="30" as="geometry" />
@@ -1987,8 +1987,8 @@
             <mxPoint x="1170" y="500" as="sourcePoint" />
             <mxPoint x="1310" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1300" y="454" />
-              <mxPoint x="1300" y="328" />
+              <mxPoint x="1310" y="432" />
+              <mxPoint x="1310" y="303" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1997,8 +1997,8 @@
             <mxPoint x="1170" y="500" as="sourcePoint" />
             <mxPoint x="1270" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1310" y="484" />
-              <mxPoint x="1310" y="358" />
+              <mxPoint x="1310" y="462" />
+              <mxPoint x="1310" y="333" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2009,7 +2009,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-vLyET9hCCEEbOVYMMOd-16" value="&lt;b&gt;TARJETAS&lt;/b&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;html=1;fillColor=#003366;strokeColor=#432D57;fontColor=#ffffff;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="717" width="270" height="300" as="geometry" />
+          <mxGeometry x="1340" y="690" width="270" height="300" as="geometry" />
         </mxCell>
         <mxCell id="-vLyET9hCCEEbOVYMMOd-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#cce5ff;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#36393d;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="-vLyET9hCCEEbOVYMMOd-16" vertex="1">
           <mxGeometry y="30" width="270" height="30" as="geometry" />
@@ -2175,8 +2175,8 @@
             <mxPoint x="1780" y="740" as="sourcePoint" />
             <mxPoint x="1350" y="970" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1320" y="454" />
-              <mxPoint x="1320" y="945" />
+              <mxPoint x="1310" y="432" />
+              <mxPoint x="1310" y="945" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2184,6 +2184,10 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1780" y="520" as="sourcePoint" />
             <mxPoint x="1670" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1620" y="192" />
+              <mxPoint x="1620" y="584" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-vLyET9hCCEEbOVYMMOd-59" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-vLyET9hCCEEbOVYMMOd-17" target="-vLyET9hCCEEbOVYMMOd-51" edge="1">
@@ -2214,6 +2218,10 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1450" y="790" as="sourcePoint" />
             <mxPoint x="1550" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="462" />
+              <mxPoint x="1310" y="975" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9fzKNmrujfKrGAWshRel-5" value="CONFIG_IA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#003366;strokeColor=#36393d;rounded=0;fontColor=#FFFFFF;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="1">
