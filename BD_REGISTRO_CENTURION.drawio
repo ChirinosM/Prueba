@@ -2356,7 +2356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HNgr27NCFsfTXtlbhh8O-5" value="SENSORES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#003366;strokeColor=#432D57;fontColor=#ffffff;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1090" width="330" height="420" as="geometry" />
+          <mxGeometry x="330" y="1090" width="330" height="360" as="geometry" />
         </mxCell>
         <mxCell id="HNgr27NCFsfTXtlbhh8O-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#cce5ff;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#36393d;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="HNgr27NCFsfTXtlbhh8O-5" vertex="1">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -2501,32 +2501,6 @@
             <mxRectangle width="305" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#CCE5FF;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;strokeColor=#10739e;" parent="HNgr27NCFsfTXtlbhh8O-5" vertex="1">
-          <mxGeometry y="360" width="330" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-40" value="" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;strokeColor=#10739e;" parent="HNgr27NCFsfTXtlbhh8O-39" vertex="1">
-          <mxGeometry width="25" height="30" as="geometry">
-            <mxRectangle width="25" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-41" value="ID_VERSION INT NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#10739e;" parent="HNgr27NCFsfTXtlbhh8O-39" vertex="1">
-          <mxGeometry x="25" width="305" height="30" as="geometry">
-            <mxRectangle width="305" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#CCE5FF;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;strokeColor=#10739e;" parent="HNgr27NCFsfTXtlbhh8O-5" vertex="1">
-          <mxGeometry y="390" width="330" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-43" value="" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;strokeColor=#10739e;" parent="HNgr27NCFsfTXtlbhh8O-42" vertex="1">
-          <mxGeometry width="25" height="30" as="geometry">
-            <mxRectangle width="25" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-44" value="TYPE_VERSION VARCHAR(4) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#10739e;" parent="HNgr27NCFsfTXtlbhh8O-42" vertex="1">
-          <mxGeometry x="25" width="305" height="30" as="geometry">
-            <mxRectangle width="305" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HNgr27NCFsfTXtlbhh8O-48" value="TIPO_SENSORES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#003366;strokeColor=#432D57;fontColor=#ffffff;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
           <mxGeometry x="700" y="1230" width="330" height="210" as="geometry" />
         </mxCell>
@@ -2656,26 +2630,6 @@
             <Array as="points">
               <mxPoint x="300" y="665" />
               <mxPoint x="300" y="1435" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-113" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q_vVMvHL2ceAPWktRrQN-3" target="HNgr27NCFsfTXtlbhh8O-39" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1120" y="870" as="sourcePoint" />
-            <mxPoint x="1220" y="770" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1300" y="432" />
-              <mxPoint x="1300" y="1465" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HNgr27NCFsfTXtlbhh8O-114" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q_vVMvHL2ceAPWktRrQN-21" target="HNgr27NCFsfTXtlbhh8O-42" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1120" y="1290" as="sourcePoint" />
-            <mxPoint x="1420" y="1240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1300" y="462" />
-              <mxPoint x="1300" y="1495" />
             </Array>
           </mxGeometry>
         </mxCell>
