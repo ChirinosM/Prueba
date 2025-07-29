@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Consulta de datos" id="prKiaoPYNgKYfBAFQgPr">
-    <mxGraphModel dx="1801" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="--12hHoAWK2dSRamgLG7-0" />
         <mxCell id="--12hHoAWK2dSRamgLG7-1" parent="--12hHoAWK2dSRamgLG7-0" />
@@ -612,11 +612,11 @@
         <mxCell id="qsVZpCxku7U81ZAHekyU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
           <mxGeometry x="643" y="314" width="180" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="qsVZpCxku7U81ZAHekyU-6" value="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
+        <mxCell id="qsVZpCxku7U81ZAHekyU-6" value="1,2,n" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
           <mxGeometry x="653" y="339" width="160" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="qsVZpCxku7U81ZAHekyU-7" value="Entero o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
-          <mxGeometry x="643" y="312" width="100" height="30" as="geometry" />
+        <mxCell id="qsVZpCxku7U81ZAHekyU-7" value="Entero separados &quot;,&quot; o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
+          <mxGeometry x="644" y="312" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qsVZpCxku7U81ZAHekyU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="--12hHoAWK2dSRamgLG7-1" source="qsVZpCxku7U81ZAHekyU-9" target="qsVZpCxku7U81ZAHekyU-5">
           <mxGeometry relative="1" as="geometry" />
@@ -670,8 +670,8 @@
         <mxCell id="qsVZpCxku7U81ZAHekyU-25" value="&lt;span style=&quot;text-align: left;&quot;&gt;temperature,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;humidity,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;pressure,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;lux,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;noise,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;pm1,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;pm2_5,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;pm10,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;co2,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;o3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
           <mxGeometry x="653" y="452" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="qsVZpCxku7U81ZAHekyU-26" value="Strings separador &quot;,&quot; o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
-          <mxGeometry x="639" y="425" width="180" height="30" as="geometry" />
+        <mxCell id="qsVZpCxku7U81ZAHekyU-26" value="Strings separados &quot;,&quot; o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
+          <mxGeometry x="643" y="425" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fgKXTR4-9glyjjgJBQoB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="--12hHoAWK2dSRamgLG7-1" source="qsVZpCxku7U81ZAHekyU-43" target="fgKXTR4-9glyjjgJBQoB-0">
           <mxGeometry relative="1" as="geometry" />
@@ -700,7 +700,7 @@
         <mxCell id="qsVZpCxku7U81ZAHekyU-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
           <mxGeometry x="863" y="302" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qsVZpCxku7U81ZAHekyU-53" value="https://destellos.api.&lt;div&gt;key-city.com/consult-data?&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;module_id=1&amp;amp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;relativeTime=1s&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
+        <mxCell id="qsVZpCxku7U81ZAHekyU-53" value="https://destellos.api.&lt;div&gt;key-city.com/consult-data?&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;module_id=1,2&amp;amp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;relativeTime=1s&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
           <mxGeometry x="873" y="312" width="160" height="68" as="geometry" />
         </mxCell>
         <mxCell id="qsVZpCxku7U81ZAHekyU-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
