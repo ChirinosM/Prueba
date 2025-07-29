@@ -284,8 +284,211 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="Autenticación" id="AhjJCe0on8ZgtQpxySX0">
+    <mxGraphModel dx="1261" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-0" />
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-1" parent="TBKjGR6H-f0Yvw62BVqA-0" />
+        <mxCell id="o5m_WW7am2by3stPuZ5m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" target="o5m_WW7am2by3stPuZ5m-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820.5" y="671" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-10" target="TBKjGR6H-f0Yvw62BVqA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-10" value="&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Valores aceptables&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="643" y="244" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-12" target="TBKjGR6H-f0Yvw62BVqA-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-12" value="&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Ejemplo de petición&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="863" y="244" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-15" value="&lt;span style=&quot;&quot;&gt;/auth&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#647687;fontColor=#FFFFFF;strokeColor=#314354;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="608" y="86" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="768" y="294" as="sourcePoint" />
+            <mxPoint x="818" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1218" y="294" as="sourcePoint" />
+            <mxPoint x="1268" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-19" target="TBKjGR6H-f0Yvw62BVqA-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-19" value="Parámetros" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="424" y="244" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="828" y="324" as="sourcePoint" />
+            <mxPoint x="878" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-22" value="&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Ejemplo de respuesta&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="1080" y="244" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="1083" y="302" width="1127" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-25" value="&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&amp;nbsp;&quot;email&quot;: &quot;mchirinos@trafficlight.mx&quot;,&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&amp;nbsp;&quot;name&quot;: &quot;Mariela Edith Chirinos Hernández&quot;,&lt;span style=&quot;font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;access_token&quot;:&amp;nbsp;&quot;eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJtY2hpcmlub3NAdHJhZmZpY2xpZ2h0Lm14IiwiaWF0IjoxNzUzODEwMTg0LCJleHAiOjE3NTM4OTY1ODR9.7-94noLffp3u8xvIxc2ghzECyiuItpDpJxPECyWZOd8&quot;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="1093" y="312" width="1107" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="828" y="324" as="sourcePoint" />
+            <mxPoint x="878" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-36" target="TBKjGR6H-f0Yvw62BVqA-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="409.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="339" />
+              <mxPoint x="840" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-36" target="o5m_WW7am2by3stPuZ5m-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="339" />
+              <mxPoint x="850" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="643" y="301" width="180" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-37" value="uncorreo@trafficlight.mx o uncorreo@keycity.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="653" y="326" width="160" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-38" value="String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="642" y="299" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="334.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="424" y="301" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-41" value="email" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="434" y="326" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-42" value="obligatorio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="422" y="299" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-44" target="TBKjGR6H-f0Yvw62BVqA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="422" y="443" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-45" value="keycity_secret_key" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="432" y="468" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-46" value="Condicional obligatorio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="421" y="441" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640.5" y="671" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="601" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="421" y="637" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-49" value="password" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="431" y="662" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-50" value="Condicional obligatorio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="421" y="634" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-53" target="TBKjGR6H-f0Yvw62BVqA-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="477" />
+              <mxPoint x="840" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="643" y="425" width="180" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;&quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;vAzx8E&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="653" y="450" width="160" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-55" value="Strings o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="644" y="423" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="863" y="301" width="180" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-65" value="https://destellos.api.&lt;div&gt;key-city.com/auth&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;body:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;email&quot;: &quot;mchirinos@trafficlight.mx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;keycity_secret_key&quot;: &quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div&gt;vAzx8E&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="873" y="311" width="160" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-77" value="Método POST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="598" y="59" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-79" target="TBKjGR6H-f0Yvw62BVqA-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-79" value="Dominio" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="208" y="244" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-80" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="208" y="302" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TBKjGR6H-f0Yvw62BVqA-81" value="https://demo.destellos.&lt;div&gt;api.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;key-city.com&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="218" y="315" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="1080" y="487" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-3" value="&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&amp;nbsp; &quot;message&quot;: &quot;Debe indicar la contraseña del usuario o la llave secreta.&quot;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=12;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="1090" y="497" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="863" y="557" width="180" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-11" value="https://destellos.api.&lt;div&gt;key-city.com/auth&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;body:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;email&quot;: &quot;mchirinos@trafficlight.mx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;password&quot;: &quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div&gt;vAzx8E&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="873" y="567" width="160" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="642" y="619.5" width="180" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;vAzx8E&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="652" y="644.5" width="160" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="o5m_WW7am2by3stPuZ5m-16" value="Strings o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
+          <mxGeometry x="643" y="617.5" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Consulta de datos" id="prKiaoPYNgKYfBAFQgPr">
-    <mxGraphModel dx="1250" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1801" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="--12hHoAWK2dSRamgLG7-0" />
         <mxCell id="--12hHoAWK2dSRamgLG7-1" parent="--12hHoAWK2dSRamgLG7-0" />
@@ -548,208 +751,11 @@
         <mxCell id="GkJZM-Fz60vouiD6jz_3-1" value="https://demo.destellos.&lt;div&gt;api.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;key-city.com&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
           <mxGeometry x="218" y="328" width="160" height="40" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Autenticación" id="AhjJCe0on8ZgtQpxySX0">
-    <mxGraphModel dx="1261" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-0" />
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-1" parent="TBKjGR6H-f0Yvw62BVqA-0" />
-        <mxCell id="o5m_WW7am2by3stPuZ5m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" target="o5m_WW7am2by3stPuZ5m-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820.5" y="671" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="1ExReXXRtfye3tJDU3UO-0" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
+          <mxGeometry x="1080" y="864" width="350" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-10" target="TBKjGR6H-f0Yvw62BVqA-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-10" value="&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Valores aceptables&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="643" y="244" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-12" target="TBKjGR6H-f0Yvw62BVqA-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-12" value="&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Ejemplo de petición&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="863" y="244" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-15" value="&lt;span style=&quot;&quot;&gt;/auth&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#647687;fontColor=#FFFFFF;strokeColor=#314354;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="608" y="86" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="768" y="294" as="sourcePoint" />
-            <mxPoint x="818" y="244" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1218" y="294" as="sourcePoint" />
-            <mxPoint x="1268" y="244" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-19" target="TBKjGR6H-f0Yvw62BVqA-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-19" value="Parámetros" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="424" y="244" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="828" y="324" as="sourcePoint" />
-            <mxPoint x="878" y="274" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-22" value="&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Ejemplo de respuesta&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="1080" y="244" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="1083" y="302" width="1127" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-25" value="&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&amp;nbsp;&quot;email&quot;: &quot;mchirinos@trafficlight.mx&quot;,&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&amp;nbsp;&quot;name&quot;: &quot;Mariela Edith Chirinos Hernández&quot;,&lt;span style=&quot;font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;access_token&quot;:&amp;nbsp;&quot;eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJtY2hpcmlub3NAdHJhZmZpY2xpZ2h0Lm14IiwiaWF0IjoxNzUzODEwMTg0LCJleHAiOjE3NTM4OTY1ODR9.7-94noLffp3u8xvIxc2ghzECyiuItpDpJxPECyWZOd8&quot;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="1093" y="312" width="1107" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-15" target="TBKjGR6H-f0Yvw62BVqA-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="828" y="324" as="sourcePoint" />
-            <mxPoint x="878" y="274" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-36" target="TBKjGR6H-f0Yvw62BVqA-64">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="409.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="840" y="339" />
-              <mxPoint x="840" y="415" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-36" target="o5m_WW7am2by3stPuZ5m-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="339" />
-              <mxPoint x="850" y="671" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="643" y="301" width="180" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-37" value="uncorreo@trafficlight.mx o uncorreo@keycity.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="653" y="326" width="160" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-38" value="String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="642" y="299" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="334.16666666666674" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="424" y="301" width="180" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-41" value="email" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="434" y="326" width="160" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-42" value="obligatorio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="422" y="299" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-44" target="TBKjGR6H-f0Yvw62BVqA-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="422" y="443" width="180" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-45" value="keycity_secret_key" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="432" y="468" width="160" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-46" value="Condicional obligatorio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="421" y="441" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640.5" y="671" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="601" y="671" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="421" y="637" width="180" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-49" value="password" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="431" y="662" width="160" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-50" value="Condicional obligatorio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="421" y="634" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-53" target="TBKjGR6H-f0Yvw62BVqA-64">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="840" y="477" />
-              <mxPoint x="840" y="415" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="643" y="425" width="180" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-54" value="&lt;div style=&quot;text-align: left;&quot;&gt;&quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;vAzx8E&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="653" y="450" width="160" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-55" value="Strings o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="644" y="423" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="863" y="301" width="180" height="228" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-65" value="https://destellos.api.&lt;div&gt;key-city.com/auth&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;body:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;email&quot;: &quot;mchirinos@trafficlight.mx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;keycity_secret_key&quot;: &quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div&gt;vAzx8E&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="873" y="311" width="160" height="208" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-77" value="Método POST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="598" y="59" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TBKjGR6H-f0Yvw62BVqA-1" source="TBKjGR6H-f0Yvw62BVqA-79" target="TBKjGR6H-f0Yvw62BVqA-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-79" value="Dominio" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="208" y="244" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-80" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="208" y="302" width="180" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="TBKjGR6H-f0Yvw62BVqA-81" value="https://demo.destellos.&lt;div&gt;api.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;key-city.com&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="218" y="315" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="1080" y="487" width="450" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-3" value="&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&amp;nbsp; &quot;message&quot;: &quot;Debe indicar la contraseña del usuario o la llave secreta.&quot;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=12;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="1090" y="497" width="430" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="863" y="557" width="180" height="228" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-11" value="https://destellos.api.&lt;div&gt;key-city.com/auth&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;body:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;email&quot;: &quot;mchirinos@trafficlight.mx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;password&quot;: &quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div&gt;vAzx8E&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="873" y="567" width="160" height="208" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="642" y="619.5" width="180" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&quot;U2FsdGVkX1/fdkOiepR+&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZJ+PegmquKt5iUwmS2W&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ZThEh4b/gQWWxTp5ikg&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;vAzx8E&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="652" y="644.5" width="160" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="o5m_WW7am2by3stPuZ5m-16" value="Strings o nulo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="TBKjGR6H-f0Yvw62BVqA-1">
-          <mxGeometry x="643" y="617.5" width="100" height="30" as="geometry" />
+        <mxCell id="1ExReXXRtfye3tJDU3UO-1" value="&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;&amp;nbsp; &quot;message&quot;: &quot;No se indicó el tiempo relativo o el absoluto.&quot;&lt;/div&gt;&lt;div class=&quot;x_elementToProof&quot; style=&quot;border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=12;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="--12hHoAWK2dSRamgLG7-1">
+          <mxGeometry x="1090" y="874" width="330" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
