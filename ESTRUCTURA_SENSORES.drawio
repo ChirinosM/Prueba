@@ -183,7 +183,7 @@
         <mxCell id="HFlcnK63qUpS999umlD5-0" />
         <mxCell id="HFlcnK63qUpS999umlD5-1" parent="HFlcnK63qUpS999umlD5-0" />
         <mxCell id="HFlcnK63qUpS999umlD5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
-          <mxGeometry x="633" y="304" width="180" height="136" as="geometry" />
+          <mxGeometry x="633" y="304" width="180" height="176" as="geometry" />
         </mxCell>
         <mxCell id="HFlcnK63qUpS999umlD5-4" value="&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Método GET&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=12;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
           <mxGeometry x="633" y="234" width="180" height="30" as="geometry" />
@@ -194,7 +194,7 @@
         <mxCell id="HFlcnK63qUpS999umlD5-8" value="/status" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
           <mxGeometry x="643" y="317" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HFlcnK63qUpS999umlD5-9" value="/consult-data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
+        <mxCell id="HFlcnK63qUpS999umlD5-9" value="/consult-modules" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
           <mxGeometry x="643" y="359" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFlcnK63qUpS999umlD5-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="HFlcnK63qUpS999umlD5-1" source="HFlcnK63qUpS999umlD5-4" target="HFlcnK63qUpS999umlD5-2" edge="1">
@@ -281,7 +281,7 @@
         <mxCell id="c2FLs8xWmO1Z8JCVP6V1-15" value="https://destellos.broker.&lt;div&gt;key-city.com&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
           <mxGeometry x="424" y="416" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EnLNtybM8Q5RoTnaTwDr-0" value="/consult-geo" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
+        <mxCell id="EnLNtybM8Q5RoTnaTwDr-0" value="/consult-data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
           <mxGeometry x="643" y="400" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="59ABc08re_Eo3sUpQkAS-1" value="/reset" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HFlcnK63qUpS999umlD5-1" vertex="1">
@@ -304,6 +304,9 @@
         </mxCell>
         <mxCell id="JVE3eEZ1lF_aFIB5ES6W-0" value="/update-location" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HFlcnK63qUpS999umlD5-1">
           <mxGeometry x="1081" y="359" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GlnZa6KpW8C_atw5xEi--0" value="/consult-geo" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HFlcnK63qUpS999umlD5-1">
+          <mxGeometry x="643" y="440" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
