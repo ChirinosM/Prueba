@@ -2745,7 +2745,7 @@
         <mxCell id="ZfXBFl_DT2J9Usc7dzfv-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfXBFl_DT2J9Usc7dzfv-100" target="ZfXBFl_DT2J9Usc7dzfv-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-100" value="4: 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-100" value="4: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1034.5" y="1920" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZfXBFl_DT2J9Usc7dzfv-101" value="Secuencia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="1">
