@@ -2567,7 +2567,7 @@
           <mxGeometry x="232" y="-900" width="439" height="70" as="geometry" />
         </mxCell>
         <mxCell id="W5UgC0vwo2E1Tzb1gUed-174" value="SEQUENCES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=0;" vertex="1" parent="W5UgC0vwo2E1Tzb1gUed-1">
-          <mxGeometry x="1000" y="-488" width="300" height="268" as="geometry" />
+          <mxGeometry x="923" y="-488" width="300" height="268" as="geometry" />
         </mxCell>
         <mxCell id="W5UgC0vwo2E1Tzb1gUed-175" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#d0cee2;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#56517e;rounded=0;" vertex="1" parent="W5UgC0vwo2E1Tzb1gUed-174">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
