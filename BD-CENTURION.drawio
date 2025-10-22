@@ -785,7 +785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IwkJ8Dr4DfHdz-Fe7c74" name="PROPUESTA-JSON-V2">
-    <mxGraphModel dx="1304" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1516,31 +1516,28 @@
           <mxGeometry x="50" y="1531" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-225" value="origin" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1388" width="140" height="20" as="geometry" />
+          <mxGeometry x="453" y="1441" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-226" value="programming_type" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1418" width="140" height="20" as="geometry" />
+          <mxGeometry x="453" y="1471" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-227" value="zone" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1448" width="140" height="20" as="geometry" />
+          <mxGeometry x="453" y="1501" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-228" value="phases" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1478" width="140" height="20" as="geometry" />
+          <mxGeometry x="453" y="1531" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-229" value="scenarios" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1508" width="140" height="20" as="geometry" />
+          <mxGeometry x="453" y="1561" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-230" value="cycles" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1538" width="140" height="20" as="geometry" />
+          <mxGeometry x="453" y="1591" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-231" value="events" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1568" width="140" height="20" as="geometry" />
+          <mxGeometry x="453" y="1621" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XKw9ay2l0DFCnpBMIL-t-232" value="tipo semaforo" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1598" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XKw9ay2l0DFCnpBMIL-t-233" value="matrizConflicto" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1628" width="140" height="20" as="geometry" />
+        <mxCell id="XKw9ay2l0DFCnpBMIL-t-233" value="conflict_matrix" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1650" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-234" value="Nodos principales del cuerpo de respuesta del endpoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="1">
           <mxGeometry x="40" y="1630" width="160" height="50" as="geometry" />
@@ -1576,9 +1573,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XKw9ay2l0DFCnpBMIL-t-249" target="XKw9ay2l0DFCnpBMIL-t-231">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XKw9ay2l0DFCnpBMIL-t-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XKw9ay2l0DFCnpBMIL-t-249" target="XKw9ay2l0DFCnpBMIL-t-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKw9ay2l0DFCnpBMIL-t-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XKw9ay2l0DFCnpBMIL-t-249" target="XKw9ay2l0DFCnpBMIL-t-233">
