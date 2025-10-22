@@ -2655,19 +2655,19 @@
         <mxCell id="ZfXBFl_DT2J9Usc7dzfv-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfXBFl_DT2J9Usc7dzfv-72" target="ZfXBFl_DT2J9Usc7dzfv-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-72" value="0:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 66, 160); font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;60000&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-72" value="0:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 66, 160); font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;60&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1650.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZfXBFl_DT2J9Usc7dzfv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfXBFl_DT2J9Usc7dzfv-73" target="ZfXBFl_DT2J9Usc7dzfv-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-73" value="1:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 66, 160); font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;6000&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-73" value="1:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 66, 160); font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1680" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZfXBFl_DT2J9Usc7dzfv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfXBFl_DT2J9Usc7dzfv-74" target="ZfXBFl_DT2J9Usc7dzfv-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-74" value="2:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 66, 160); font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;3000&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZfXBFl_DT2J9Usc7dzfv-74" value="2:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 66, 160); font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1710" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZfXBFl_DT2J9Usc7dzfv-81" value="Tiempo total del escenario" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="1">
