@@ -829,7 +829,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5UgC0vwo2E1Tzb1gUed-28" value="NAME VARCHAR(35) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#D0CEE2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#56517e;" parent="W5UgC0vwo2E1Tzb1gUed-26" vertex="1">
+        <mxCell id="W5UgC0vwo2E1Tzb1gUed-28" value="CONTROLLER_NAME CHAR(14) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=#D0CEE2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#56517e;" parent="W5UgC0vwo2E1Tzb1gUed-26" vertex="1">
           <mxGeometry x="30" width="308" height="30" as="geometry">
             <mxRectangle width="308" height="30" as="alternateBounds" />
           </mxGeometry>
