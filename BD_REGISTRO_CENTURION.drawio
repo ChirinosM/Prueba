@@ -1341,7 +1341,7 @@
             <mxRectangle height="30" width="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PY0RrMmxH_5ZQ-s8M7BY-100" parent="PY0RrMmxH_5ZQ-s8M7BY-98" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" value="SIM CHAR(10) NOT NULL" vertex="1">
+        <mxCell id="PY0RrMmxH_5ZQ-s8M7BY-100" parent="PY0RrMmxH_5ZQ-s8M7BY-98" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" value="SIM CHAR(10)" vertex="1">
           <mxGeometry height="30" width="265" x="25" as="geometry">
             <mxRectangle height="30" width="265" as="alternateBounds" />
           </mxGeometry>
@@ -2394,7 +2394,7 @@
             <mxRectangle height="30" width="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-vLyET9hCCEEbOVYMMOd-22" parent="-vLyET9hCCEEbOVYMMOd-20" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" value="MATRICULA VARCHAR(13) NOT NULL&amp;nbsp;&lt;span style=&quot;font-family: Poppins;&quot;&gt;UNIQUE&lt;/span&gt;" vertex="1">
+        <mxCell id="-vLyET9hCCEEbOVYMMOd-22" parent="-vLyET9hCCEEbOVYMMOd-20" style="shape=partialRectangle;connectable=0;fillColor=#CCE5FF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" value="MATRICULA VARCHAR(14) NOT NULL&amp;nbsp;&lt;span style=&quot;font-family: Poppins;&quot;&gt;UNIQUE&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="275" x="25" as="geometry">
             <mxRectangle height="30" width="275" as="alternateBounds" />
           </mxGeometry>
